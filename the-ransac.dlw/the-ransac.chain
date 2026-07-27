@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1667
+slug  : the-ransac
+seal  : 7af09109f0c7ce0ed54ece60d4cfbee0852e9ecc713962ad7cc67c72e8ca74c2
+prev  : 550343df0b66210b4b8a61c5e864813b92a6015aa6bc41ce5920b33db56dedd1
+link  : 38cb4bf34815282c96c05012ad7f74afd9d5757c8530e81336b009fcd61594aa
+head  : 38cb4bf34815282c96c05012ad7f74afd9d5757c8530e81336b009fcd61594aa
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
